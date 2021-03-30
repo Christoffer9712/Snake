@@ -19,7 +19,7 @@ public class Menu extends JPanel {
         this.setFocusable(true);
         this.setLayout(new GridBagLayout());
 
-        menuButton j = new menuButton("Starttttttttttt");
+        menuButton j = new menuButton("Start");
         gbc.gridx = 0;
         gbc.gridy = 0;
         this.add(j, gbc);
